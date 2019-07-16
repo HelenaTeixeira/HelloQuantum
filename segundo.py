@@ -1,5 +1,6 @@
 #Helena Teixeira - 93720
 #primeiro semestre - FP 
+#dev ready
 #CELULAS
 def cria_celula(x):
     '''
